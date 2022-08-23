@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828021dd-083b-461b-af3d-a5b525859798" name="Changes" comment="">
+    <list default="true" id="828021dd-083b-461b-af3d-a5b525859798" name="Changes" comment="kullanıcıdan array alma ve arrayin ortalamasını yazdırma">
+      <change afterPath="$PROJECT_DIR$/src/CokBoyutluArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -58,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661229766656</updated>
     </task>
+    <task id="LOCAL-00001" summary="kullanıcıdan array alma ve arrayin ortalamasını yazdırma">
+      <created>1661233869569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661233869569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kullanıcıdan array alma ve arrayin ortalamasını yazdırma" />
+    <option name="LAST_COMMIT_MESSAGE" value="kullanıcıdan array alma ve arrayin ortalamasını yazdırma" />
   </component>
 </project>

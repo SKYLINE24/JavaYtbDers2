@@ -30,6 +30,8 @@ public class Main {
         //mean methodunun içerisinne arr2 arrayimizi göndermiş ve sonrasında da ortalamasını almış olduk
         mean(arr2);
 
+        CokBoyutluArray.cokluBoyutluArray();
+
         /*
         arr2[0] = 1;
         arr2[1] = 2;
@@ -40,7 +42,6 @@ public class Main {
         System.out.println("Array 2'nin birinci elemeanı: " + arr2[0]);
         System.out.println("Array 1'in ikinci elemeanı: " + arr1[1]);
         */
-
 
 
     }
